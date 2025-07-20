@@ -26,12 +26,11 @@ The system is tailored for real-world multilevel parking lots, with support for 
 
 ## 🛠 Features
 
-- 🔢 3D Matrix Representation of Parking: `[floor][row][column]`
+- 🔢 3D Matrix Representation of Parking stored in a file system: `[floor][row][column]`
 - 📊 Persistent Storage with MySQL
 - 🧠 Dijkstra’s Algorithm for optimal relocation & space allocation
 - 👤 Swing-based GUI for intuitive operation
 - 🔐 Input validation and duplicate checks
-- 📁 JSON-style vehicle data storage within MySQL
 - 🛣️ Simulates up/down ramp constraints
 - 📄 Modular code with OOP principles: inheritance, encapsulation, abstraction, interfaces
 
