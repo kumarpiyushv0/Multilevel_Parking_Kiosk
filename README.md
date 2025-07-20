@@ -35,6 +35,6 @@ The system is tailored for real-world multilevel parking lots, with support for 
 - 🛣️ Simulates up/down ramp constraints
 - 📄 Modular code with OOP principles: inheritance, encapsulation, abstraction, interfaces
 
-
+NOTE -> After importing the software some preprocessing is needed as software is in development phase.
 
 
