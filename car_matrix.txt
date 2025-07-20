@@ -1,0 +1,160 @@
+Floor 0:
+[Toyota-Blue] [Fortuner-Black] [aa-bb] [ff-gg] [Tesla-Silver] [Toyota-Red] [k-l] [Toyota-Black] [BMW-Silver] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [BMW-White] 
+[BMW-Black] [ALTO-SILVER] [kjn-kj] [k-k] [u-k] [BMW-White] [BMW-Red] [Empty] [Empty] [Empty] [Kia-Silver] [Empty] [Tesla-Black] [Empty] [Tesla-Black] [Empty] 
+[Toyota-Blue] [Toyota-Blue] [Tata-Red] [h-t] [Tata-Blue] [Tesla-Black] [Empty] [Tata-Red] [Empty] [Toyota-Blue] [Tesla-Silver] [Empty] [Tata-Blue] [Empty] [Empty] [Empty] 
+[ALTO-SILVER] [-lg] [g-t] [Toyota-Blue] [Empty] [Empty] [Empty] [BMW-White] [Tata-Black] [Tesla-Blue] [BMW-Blue] [Empty] [BMW-White] [Tata-Red] [Toyota-Silver] [Tata-Black] 
+[Kia-White] [Tata-Silver] [Kia-Blue] [toyota corrola-black] [Kia-Silver] [Toyota-Blue] [Empty] [Kia-Red] [Empty] [BMW-White] [BMW-Black] [BMW-Blue] [Toyota-Black] [Empty] [Tata-Silver] [Empty] 
+[Tata-Silver] [Tesla-Black] [Kia-Blue] [Kia-Black] [Tata-White] [Kia-Blue] [Empty] [Empty] [Empty] [Kia-Silver] [Empty] [Kia-White] [Toyota-Blue] [Tata-Blue] [Toyota-White] [Tesla-Black] 
+[Kia-Blue] [s-s] [Tesla-Silver] [Tesla-Red] [Empty] [Empty] [BMW-Red] [Kia-Silver] [Kia-Red] [Tata-Black] [Empty] [Kia-Black] [Toyota-Black] [BMW-White] [Kia-Silver] [Empty] 
+[Toyota-Blue] [Tata-Black] [Empty] [BMW-Blue] [Kia-Black] [Empty] [Empty] [Empty] [Empty] [Empty] [Tesla-White] [Empty] [Tesla-Black] [Kia-White] [Toyota-Silver] [BMW-Red] 
+
+Floor 1:
+[Toyota-Black] [Empty] [Kia-Blue] [Empty] [Tesla-Blue] [Tata-Red] [Empty] [Tata-Silver] [Tesla-Black] [BMW-Blue] [Empty] [Kia-White] [Empty] [Toyota-Silver] [Empty] [Toyota-Black] 
+[Empty] [WHITE-FORTUNER] [r-g] [Tata-Blue] [Kia-Silver] [Empty] [Empty] [Kia-Blue] [Empty] [BMW-White] [Empty] [Kia-Red] [Empty] [Empty] [Toyota-Blue] [BMW-Silver] 
+[Tesla-Silver] [Tesla-Black] [j-h] [g-r] [Toyota-Black] [Empty] [Tata-White] [Empty] [Empty] [Tesla-Silver] [Tata-White] [Tesla-Red] [Kia-Silver] [Empty] [Empty] [Tesla-Red] 
+[Toyota-Red] [Tesla-Silver] [ALT-VOILET] [BMW-Blue] [Empty] [Empty] [BMW-Black] [Tesla-Red] [BMW-Silver] [Empty] [Toyota-Red] [Empty] [Empty] [Empty] [BMW-Blue] [Kia-Silver] 
+[Toyota-Silver] [Empty] [BMW-White] [Toyota-Red] [Toyota-Red] [BMW-Black] [Empty] [Tesla-Silver] [Empty] [BMW-Red] [Empty] [Kia-White] [Empty] [Empty] [Empty] [Empty] 
+[Empty] [Kia-White] [Empty] [Kia-Red] [Tata-White] [Tata-Black] [BMW-Silver] [Kia-Red] [Empty] [Empty] [BMW-Red] [Tesla-Silver] [Empty] [Empty] [Tesla-White] [Kia-Black] 
+[Tesla-White] [Tesla-Red] [Kia-Blue] [Empty] [Tata-Silver] [Empty] [BMW-Silver] [Toyota-White] [Empty] [Kia-Blue] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] 
+[Empty] [Empty] [Empty] [BMW-Blue] [Toyota-Black] [Toyota-Red] [Tata-White] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [Toyota-White] 
+
+Floor 2:
+[Empty] [Empty] [Tata-Red] [BMW-Silver] [Toyota-Red] [Empty] [Empty] [BMW-Red] [Toyota-Black] [Empty] [Empty] [Tata-White] [Empty] [Empty] [Empty] [Empty] 
+[Toyota-Blue] [Empty] [Toyota-Blue] [Tesla-Blue] [Toyota-Blue] [Kia-Blue] [Empty] [Empty] [Tesla-White] [BMW-Black] [Kia-White] [Empty] [Tesla-Blue] [Empty] [Empty] [Tata-White] 
+[BMW-Black] [HONDAA-BLACKY] [Tata-Blue] [-] [hyundai i10-silver] [Empty] [Toyota-White] [Tesla-Black] [Empty] [Kia-Red] [Tata-Blue] [Kia-Red] [Empty] [Empty] [Empty] [Tesla-Blue] 
+[Toyota-Red] [BMW-Silver] [Toyota-Red] [Empty] [BMW-Red] [Empty] [Empty] [Tata-White] [Tata-Blue] [BMW-Silver] [Tata-Silver] [Empty] [Kia-Black] [Tesla-Silver] [BMW-Black] [Empty] 
+[Kia-Black] [Empty] [Empty] [Empty] [Empty] [Toyota-Silver] [Empty] [Empty] [Toyota-Blue] [Empty] [Empty] [Kia-Red] [BMW-Blue] [Toyota-Blue] [Toyota-Blue] [Empty] 
+[Empty] [Tata-Silver] [Empty] [Kia-White] [Toyota-Red] [Empty] [Tata-Silver] [Kia-White] [Empty] [Empty] [Empty] [Empty] [Tesla-Silver] [Empty] [Tesla-Red] [Empty] 
+[Tata-Silver] [Tata-Black] [Tata-White] [Empty] [Toyota-Red] [Kia-Black] [Empty] [Kia-Red] [Empty] [Empty] [Empty] [Kia-Blue] [Empty] [Empty] [BMW-Silver] [Empty] 
+[Tata-Silver] [Toyota-Blue] [Kia-Black] [Empty] [Empty] [Tata-Blue] [Empty] [Toyota-Silver] [BMW-Blue] [Tata-Silver] [Tata-White] [Empty] [Tesla-Black] [Toyota-White] [Empty] [Empty] 
+
+Floor 3:
+[Toyota-Blue] [BMW-Blue] [Empty] [Tesla-White] [Tata-Red] [Empty] [Kia-Black] [Empty] [Kia-White] [Empty] [Tesla-White] [Empty] [Empty] [Empty] [Empty] [Empty] 
+[Tesla-Red] [Tesla-White] [Empty] [Empty] [Empty] [Kia-Blue] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [Tata-Silver] [Empty] [Kia-Red] [Empty] 
+[Empty] [Toyota-Silver] [BMW-Red] [Empty] [Kia-Black] [Tata-White] [Empty] [Tesla-Silver] [Empty] [Kia-White] [Empty] [Empty] [Tata-Blue] [Tata-Black] [Empty] [Tesla-Blue] 
+[BMW-Blue] [Empty] [Empty] [Tata-White] [Empty] [Toyota-Blue] [Toyota-Silver] [Empty] [Empty] [Empty] [Tesla-Red] [Empty] [Empty] [Empty] [Empty] [Empty] 
+[Kia-Red] [Tesla-Red] [Empty] [Tesla-Silver] [Tata-Black] [Empty] [Tata-Blue] [Empty] [Empty] [Tesla-White] [BMW-Red] [Kia-White] [Empty] [BMW-Silver] [Toyota-Blue] [Toyota-Red] 
+[Empty] [Kia-White] [Empty] [Empty] [Toyota-White] [BMW-Blue] [Toyota-Silver] [Tata-White] [Empty] [Toyota-Silver] [Empty] [Empty] [Kia-Red] [Empty] [BMW-White] [Kia-Blue] 
+[BMW-Red] [Empty] [Empty] [Empty] [Tata-White] [Empty] [Tesla-Black] [BMW-Black] [Toyota-Black] [Tesla-Blue] [BMW-Silver] [Empty] [BMW-Black] [Kia-Blue] [Toyota-Blue] [Empty] 
+[Empty] [Empty] [Tesla-Red] [BMW-Red] [Empty] [Empty] [Empty] [Toyota-Silver] [Kia-Black] [Empty] [Empty] [Empty] [Toyota-White] [Kia-Red] [Kia-Red] [Empty] 
+
+Floor 4:
+[Empty] [Empty] [BMW-White] [Tata-Black] [Tata-Red] [Toyota-Black] [Tata-Blue] [Empty] [Tata-Silver] [Empty] [Tata-Black] [Empty] [Empty] [Empty] [Empty] [Empty] 
+[Empty] [Empty] [Empty] [Empty] [Empty] [Toyota-Blue] [Tesla-Black] [Empty] [Empty] [Empty] [Toyota-Black] [Empty] [Empty] [Tata-White] [Empty] [Empty] 
+[BMW-Silver] [Toyota-White] [Empty] [Kia-Black] [Empty] [BMW-Silver] [Empty] [Empty] [BMW-Silver] [Empty] [Tata-Black] [Empty] [Empty] [Empty] [Empty] [Empty] 
+[Kia-Blue] [Empty] [Empty] [Tesla-Red] [Toyota-Black] [Empty] [Empty] [Empty] [Empty] [Kia-Blue] [Tesla-Black] [Tesla-White] [Empty] [Toyota-Blue] [BMW-Red] [Toyota-Black] 
+[Tesla-Black] [Empty] [Tata-Black] [Empty] [Empty] [BMW-Black] [Empty] [BMW-Red] [Empty] [Empty] [Empty] [Empty] [Toyota-Silver] [Tata-Blue] [Toyota-Black] [Toyota-Red] 
+[Empty] [Tata-White] [Tesla-White] [Empty] [Kia-Red] [Tesla-Red] [BMW-Silver] [Empty] [Empty] [Empty] [BMW-Black] [Empty] [Tesla-Silver] [Toyota-Black] [BMW-White] [Empty] 
+[Empty] [Kia-Blue] [Empty] [Tesla-Red] [Empty] [Tata-Silver] [Kia-Black] [Tata-Silver] [BMW-Blue] [Empty] [Empty] [Toyota-Silver] [Toyota-Black] [Empty] [Empty] [Empty] 
+[Empty] [Tesla-White] [BMW-Blue] [Tesla-Black] [Tata-Blue] [Empty] [Empty] [Empty] [Tata-Blue] [Tesla-Red] [Kia-Red] [Tata-Black] [Empty] [Empty] [Empty] [Empty] 
+
+Floor 5:
+[Kia-Silver] [Tesla-Red] [Toyota-Silver] [Empty] [Empty] [BMW-Red] [Empty] [Empty] [Tesla-White] [Toyota-Silver] [Empty] [Empty] [Kia-Red] [Empty] [Empty] [Empty] 
+[Tata-Red] [Tesla-Red] [Toyota-Red] [BMW-Black] [Tesla-Red] [BMW-Red] [BMW-Blue] [Empty] [Tata-White] [Toyota-Blue] [Tesla-Black] [BMW-Black] [Kia-Red] [BMW-White] [Empty] [Tata-Blue] 
+[Tesla-Black] [Toyota-Black] [Empty] [BMW-Blue] [Toyota-White] [Empty] [Tesla-Black] [Tesla-Black] [Empty] [Empty] [Empty] [Empty] [Kia-Black] [Toyota-Red] [Empty] [BMW-Blue] 
+[Empty] [Kia-Blue] [Toyota-Red] [Tesla-Blue] [Empty] [Empty] [Tata-Red] [BMW-Red] [BMW-Blue] [Empty] [Empty] [Empty] [BMW-Red] [Empty] [Toyota-White] [Tesla-Red] 
+[Empty] [Kia-White] [Empty] [Empty] [Empty] [Tesla-Red] [Empty] [Tesla-Blue] [Tata-White] [Tata-Blue] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] 
+[Tesla-Silver] [Tesla-Black] [Toyota-Black] [Empty] [Empty] [Empty] [Tata-Blue] [Empty] [Kia-Blue] [Tata-Red] [Kia-White] [BMW-Red] [Empty] [Tata-Blue] [BMW-Black] [Kia-Silver] 
+[Empty] [BMW-Black] [Empty] [Kia-Blue] [Kia-Blue] [Kia-Blue] [Empty] [Empty] [Tesla-Silver] [Kia-Blue] [Tata-Blue] [Empty] [Tesla-Red] [Empty] [Toyota-Black] [Empty] 
+[Tesla-Silver] [Toyota-Silver] [Kia-Blue] [Toyota-Blue] [Empty] [Tesla-White] [Kia-Red] [BMW-Red] [Toyota-Silver] [Toyota-Red] [Tata-Blue] [Kia-Black] [Empty] [Empty] [Toyota-Black] [Empty] 
+
+Floor 6:
+[Empty] [Empty] [Empty] [Empty] [Tesla-Red] [Empty] [Tesla-Silver] [Empty] [Kia-White] [BMW-Red] [Empty] [Empty] [Toyota-Silver] [Tesla-Red] [Empty] [Empty] 
+[Empty] [Tesla-Silver] [Tata-Blue] [Tesla-Silver] [Empty] [Empty] [Empty] [Tata-Black] [Empty] [Tesla-Black] [Kia-Red] [BMW-Blue] [Tesla-Black] [Kia-Blue] [Empty] [BMW-Red] 
+[Empty] [Empty] [BMW-White] [Toyota-Red] [Toyota-White] [Empty] [Empty] [Empty] [Tata-Black] [Empty] [Empty] [Empty] [BMW-Blue] [Empty] [Tata-Blue] [Toyota-White] 
+[Empty] [Tesla-Blue] [Tata-Silver] [BMW-White] [Empty] [Empty] [Empty] [Empty] [Toyota-Blue] [Empty] [Empty] [Empty] [Toyota-Silver] [Tata-Black] [Empty] [Tata-Silver] 
+[Empty] [Kia-Blue] [BMW-Silver] [Empty] [Empty] [Empty] [Empty] [Tata-Blue] [Empty] [Empty] [Empty] [BMW-White] [Tesla-Black] [Toyota-Silver] [BMW-Blue] [Toyota-Black] 
+[Kia-Black] [Tesla-White] [Kia-Silver] [Toyota-White] [Kia-Black] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [Toyota-Red] [Toyota-Red] [Toyota-Red] [Tesla-Red] [Tesla-White] 
+[Tata-Red] [Empty] [Kia-Silver] [Empty] [Empty] [Tata-White] [Empty] [Empty] [Empty] [Tesla-White] [Tata-Silver] [BMW-Silver] [Kia-Blue] [Empty] [BMW-Red] [BMW-Red] 
+[Tata-Silver] [Tesla-Blue] [Empty] [Empty] [Tata-Black] [Empty] [BMW-Silver] [Empty] [Kia-Red] [Empty] [Empty] [Empty] [Empty] [Toyota-Silver] [Empty] [Empty] 
+
+Floor 7:
+[BMW-White] [BMW-Silver] [Empty] [Empty] [Empty] [Kia-Silver] [Empty] [Empty] [Tata-White] [Empty] [Empty] [Empty] [Kia-White] [Empty] [Empty] [Toyota-Red] 
+[Empty] [Empty] [Tata-Black] [Kia-Red] [Empty] [Tesla-Black] [Empty] [Tesla-Silver] [Empty] [Empty] [BMW-Silver] [Tata-Blue] [BMW-White] [Empty] [Toyota-White] [Toyota-Silver] 
+[Empty] [Empty] [Tata-Blue] [Empty] [Empty] [Toyota-Blue] [Tesla-White] [Kia-Silver] [Toyota-Red] [Empty] [Tata-Blue] [Kia-Blue] [Toyota-Silver] [Empty] [Empty] [Empty] 
+[Tata-Blue] [BMW-White] [Tata-Blue] [Empty] [BMW-Red] [Tesla-Black] [Toyota-Blue] [Kia-Red] [BMW-Black] [Empty] [Empty] [Empty] [Tata-Red] [Empty] [Toyota-Blue] [Tesla-Silver] 
+[Empty] [Empty] [BMW-Red] [Tesla-Blue] [Toyota-Blue] [Kia-Red] [Tata-White] [Tesla-Black] [Empty] [Tesla-Blue] [Kia-Blue] [Empty] [Kia-Blue] [Empty] [Empty] [Empty] 
+[Empty] [Empty] [Tata-White] [Kia-Black] [Tesla-Silver] [Tesla-White] [Empty] [Empty] [Tesla-Red] [Empty] [Tesla-Black] [BMW-Silver] [Empty] [Empty] [Toyota-Black] [Empty] 
+[Kia-Black] [Empty] [Empty] [BMW-Black] [Empty] [Empty] [Tata-Black] [Toyota-White] [Empty] [Tata-White] [Empty] [BMW-Red] [Toyota-Black] [Tata-Black] [BMW-White] [Tata-Blue] 
+[Kia-Red] [BMW-Blue] [Tata-Red] [Empty] [Tata-Blue] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [Toyota-Blue] [Empty] [Empty] 
+
+Floor 8:
+[Empty] [Empty] [Toyota-White] [Empty] [Tesla-Blue] [Empty] [Empty] [Tesla-Black] [Tesla-Black] [Kia-Black] [Empty] [Empty] [Tata-Black] [Tata-White] [BMW-White] [Empty] 
+[Empty] [Empty] [Kia-Blue] [Empty] [Tesla-Black] [Kia-Red] [BMW-Blue] [Empty] [Empty] [Tesla-White] [Kia-Black] [Empty] [Empty] [Empty] [Empty] [Toyota-Red] 
+[BMW-White] [Tata-Blue] [Kia-Red] [Empty] [Empty] [Kia-Red] [Empty] [Tesla-Red] [Empty] [Empty] [Empty] [BMW-Blue] [Kia-Red] [Empty] [Tesla-Black] [Empty] 
+[BMW-White] [BMW-Silver] [Toyota-Red] [Empty] [Empty] [Tata-Black] [Kia-White] [Empty] [Empty] [Tesla-Red] [Toyota-White] [Tesla-Red] [Tata-White] [Empty] [Tesla-Silver] [Tesla-Blue] 
+[Empty] [BMW-White] [Empty] [Toyota-Silver] [BMW-White] [Empty] [Tata-Red] [Empty] [Empty] [Empty] [Kia-White] [Empty] [Toyota-Blue] [Toyota-Black] [Tata-White] [Kia-Blue] 
+[Empty] [BMW-Black] [Empty] [Kia-Black] [Kia-Silver] [Empty] [Tata-Black] [Tesla-Silver] [BMW-Blue] [Tata-Black] [Toyota-Red] [Empty] [Toyota-Silver] [Empty] [Tesla-Red] [Empty] 
+[Empty] [Tata-White] [Tesla-Silver] [Empty] [Tesla-Blue] [Empty] [Empty] [BMW-Silver] [Kia-Red] [Tata-Black] [Kia-Blue] [Empty] [Empty] [Empty] [Empty] [Empty] 
+[Empty] [Kia-Blue] [Tesla-Black] [Empty] [Empty] [Kia-White] [Empty] [Tata-Red] [Empty] [Empty] [Empty] [Kia-Red] [Empty] [BMW-Black] [Tesla-Red] [Tesla-Silver] 
+
+Floor 9:
+[Kia-Black] [Toyota-Blue] [Tata-White] [Tesla-Black] [Empty] [Empty] [BMW-Blue] [Empty] [Kia-Silver] [Empty] [Empty] [Empty] [Empty] [BMW-Black] [Kia-Black] [Toyota-Black] 
+[Tata-Black] [Toyota-Red] [Empty] [Kia-Silver] [Tesla-Black] [Empty] [Toyota-White] [BMW-White] [Tesla-White] [Empty] [Empty] [BMW-Blue] [Empty] [Tata-Red] [Kia-Red] [BMW-Silver] 
+[Tata-Red] [Empty] [BMW-White] [Tata-Red] [Empty] [Empty] [Kia-Silver] [Tesla-White] [Kia-White] [Empty] [Empty] [Empty] [Kia-Red] [Tata-White] [Tata-Red] [Empty] 
+[Kia-Black] [Empty] [Empty] [Kia-White] [Toyota-White] [Kia-Black] [Tata-White] [Empty] [Empty] [Empty] [Kia-White] [Tata-Black] [Tata-Blue] [Empty] [Empty] [Tata-Red] 
+[Empty] [Kia-Blue] [BMW-White] [BMW-Red] [Empty] [Empty] [Empty] [Empty] [Toyota-Blue] [Empty] [Empty] [Tesla-Blue] [Empty] [BMW-Red] [BMW-White] [Empty] 
+[Kia-Black] [Toyota-White] [Empty] [Empty] [Toyota-Silver] [Empty] [Tata-White] [Toyota-Blue] [Empty] [BMW-Red] [Empty] [Empty] [Empty] [BMW-Blue] [Toyota-Black] [Empty] 
+[Empty] [Kia-Red] [Tesla-Black] [Empty] [Tata-Silver] [Empty] [Empty] [Toyota-Black] [Tata-Silver] [Kia-Silver] [Tesla-Blue] [Empty] [Tesla-White] [Tata-White] [Kia-Blue] [Empty] 
+[Toyota-Silver] [Kia-White] [BMW-Blue] [BMW-Black] [Tesla-Silver] [Kia-White] [Empty] [Tesla-Blue] [Empty] [BMW-Silver] [Tesla-White] [Empty] [Empty] [Toyota-White] [Toyota-White] [Empty] 
+
+Floor 10:
+[Kia-White] [BMW-Blue] [Empty] [Toyota-Blue] [Empty] [Empty] [BMW-Blue] [Kia-White] [Empty] [BMW-Black] [Empty] [Toyota-Silver] [Empty] [Empty] [Empty] [BMW-Black] 
+[Empty] [Empty] [Empty] [Tata-Blue] [Empty] [Empty] [Empty] [Empty] [Kia-Black] [Empty] [Empty] [Kia-Black] [Empty] [Kia-Silver] [Kia-Black] [Empty] 
+[Toyota-White] [Tesla-Blue] [Empty] [Empty] [Tata-Black] [Empty] [Toyota-Blue] [Empty] [Toyota-Blue] [Empty] [Kia-Black] [Toyota-Blue] [Empty] [BMW-Red] [Empty] [Empty] 
+[Empty] [Empty] [Tesla-Red] [Empty] [Tesla-Red] [Empty] [Empty] [Empty] [Toyota-Red] [Kia-White] [Empty] [Empty] [Kia-White] [Empty] [Kia-White] [Empty] 
+[Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [BMW-White] [Kia-Black] [Tata-Red] [Tata-Silver] [Empty] [Tata-Blue] [Empty] [Empty] [Toyota-Blue] [Empty] 
+[Kia-Silver] [Empty] [Empty] [Empty] [Empty] [BMW-Silver] [Empty] [Tata-Blue] [Empty] [Empty] [Tesla-White] [Empty] [Tata-Red] [Tata-Red] [BMW-Blue] [Toyota-Red] 
+[Tata-Blue] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [Tata-Black] [Empty] [Kia-Blue] [Empty] [BMW-Silver] [Tesla-Silver] [BMW-White] [Empty] [Empty] 
+[Toyota-Black] [Empty] [Empty] [Empty] [Empty] [Tesla-Silver] [Toyota-Red] [Empty] [Kia-Red] [Empty] [Empty] [Kia-Blue] [Tesla-Blue] [Tata-Black] [BMW-White] [Tata-White] 
+
+Floor 11:
+[Toyota-Blue] [Empty] [Empty] [Empty] [Empty] [Toyota-Silver] [Tata-Red] [Kia-Red] [Tata-Red] [Tesla-Red] [Empty] [Empty] [Tata-Silver] [Empty] [Empty] [Empty] 
+[Tata-Blue] [Kia-White] [BMW-Silver] [Tesla-Red] [Empty] [Empty] [Empty] [Empty] [BMW-Silver] [Empty] [Kia-Silver] [Tesla-White] [Kia-Blue] [Empty] [BMW-Silver] [Empty] 
+[Empty] [Empty] [Empty] [Empty] [BMW-White] [Empty] [Empty] [Kia-Black] [Tata-Black] [Toyota-Black] [Toyota-White] [Empty] [Empty] [Tesla-Silver] [Kia-Black] [Empty] 
+[Empty] [BMW-Black] [Empty] [Kia-Blue] [Toyota-Black] [Toyota-White] [Empty] [Empty] [Tesla-Silver] [Empty] [Empty] [Empty] [Tesla-Blue] [Tesla-White] [Tata-Red] [Toyota-Blue] 
+[Empty] [Tesla-Blue] [Toyota-Red] [Kia-Red] [Empty] [Empty] [Empty] [Empty] [Tesla-White] [Tata-Silver] [Empty] [Empty] [Toyota-White] [Empty] [Kia-Black] [Tata-Red] 
+[Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [BMW-Red] [Empty] [Tesla-Black] [Kia-Silver] [Tesla-Red] [Toyota-Silver] [Tata-Black] [Kia-Black] [Tesla-White] [Toyota-Silver] 
+[BMW-Red] [Empty] [Empty] [Empty] [Toyota-White] [Empty] [Tesla-Red] [Empty] [Tata-Red] [Empty] [Kia-White] [Empty] [Tata-Silver] [Empty] [Empty] [Tata-Silver] 
+[Empty] [Empty] [Empty] [Empty] [Toyota-Blue] [Tesla-Red] [Empty] [Empty] [BMW-Red] [Empty] [Empty] [Tata-Silver] [BMW-Blue] [Empty] [Empty] [Empty] 
+
+Floor 12:
+[Empty] [Tata-Silver] [Toyota-Red] [Empty] [Empty] [Kia-White] [Toyota-Silver] [Empty] [Empty] [Empty] [Tata-White] [BMW-Black] [Empty] [Empty] [Empty] [Tesla-Red] 
+[Kia-Blue] [BMW-Silver] [Tesla-Blue] [Empty] [Tesla-White] [Empty] [Kia-Silver] [BMW-Silver] [Empty] [Empty] [BMW-Silver] [Toyota-White] [Toyota-White] [Tesla-Silver] [Empty] [Empty] 
+[Empty] [BMW-Red] [Empty] [Toyota-Black] [Empty] [Empty] [Empty] [BMW-Blue] [BMW-White] [Tata-Blue] [Empty] [BMW-Silver] [Empty] [Empty] [Kia-Blue] [Tata-Black] 
+[Empty] [Empty] [Empty] [BMW-Black] [Empty] [Tesla-Silver] [Empty] [Empty] [Empty] [Tesla-Red] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] 
+[Tata-Blue] [Empty] [Kia-Silver] [BMW-Red] [Empty] [Empty] [Tata-Blue] [Tata-White] [Kia-Silver] [Empty] [Empty] [Toyota-White] [Tata-Blue] [Empty] [Toyota-White] [Toyota-Blue] 
+[Empty] [Empty] [Empty] [Empty] [Toyota-Blue] [Tata-Blue] [Kia-Black] [Kia-White] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] 
+[Empty] [Tata-Black] [Empty] [Empty] [Empty] [Toyota-White] [Empty] [Kia-Silver] [Empty] [Empty] [Empty] [Empty] [Tesla-White] [Empty] [Empty] [Tata-Red] 
+[Toyota-Blue] [Toyota-Blue] [Kia-White] [Tesla-Black] [Tesla-Silver] [Tata-Blue] [Empty] [Toyota-Black] [Empty] [Toyota-Red] [Empty] [Empty] [Empty] [Tesla-White] [Empty] [Empty] 
+
+Floor 13:
+[Tata-Silver] [Toyota-Red] [Toyota-White] [Kia-Red] [Empty] [Kia-Blue] [Empty] [Tata-White] [Empty] [Empty] [Empty] [Tesla-Red] [Empty] [Empty] [Tata-Black] [Tesla-Black] 
+[Empty] [Tesla-Red] [Kia-White] [Empty] [Empty] [Empty] [Empty] [Kia-Red] [Empty] [Tata-Silver] [Toyota-Red] [BMW-Blue] [Empty] [Toyota-Red] [Empty] [Empty] 
+[Empty] [Empty] [Empty] [Tata-Blue] [Empty] [Empty] [Empty] [Empty] [Tesla-Red] [Empty] [Empty] [Tesla-Black] [Empty] [Empty] [Empty] [Empty] 
+[Tata-Silver] [Empty] [Empty] [BMW-Black] [Empty] [BMW-Red] [Kia-White] [Empty] [Empty] [Tata-Silver] [Toyota-Black] [Empty] [Tata-Silver] [Toyota-Silver] [BMW-White] [BMW-Blue] 
+[Tesla-Red] [Empty] [Tata-Blue] [Empty] [Empty] [Toyota-White] [Empty] [Kia-Black] [BMW-Black] [Empty] [Tesla-Black] [Empty] [Empty] [Tata-Blue] [Empty] [BMW-Red] 
+[Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [Empty] [Kia-Blue] [Kia-Blue] [BMW-Black] [Toyota-Blue] [BMW-Blue] 
+[Tesla-White] [Tesla-Black] [Empty] [Tesla-Blue] [Kia-Black] [Empty] [BMW-Blue] [Tata-Black] [Tata-Black] [BMW-Black] [Empty] [Empty] [Empty] [Tata-Blue] [Empty] [Tesla-Black] 
+[Empty] [Empty] [BMW-White] [Empty] [Empty] [Tesla-Red] [Empty] [Kia-Black] [Empty] [Empty] [Tata-Red] [Toyota-White] [Empty] [BMW-Blue] [Empty] [Kia-Black] 
+
+Floor 14:
+[Kia-Silver] [Tesla-Black] [Empty] [Kia-White] [Empty] [Toyota-White] [Empty] [Empty] [Empty] [Toyota-White] [Tesla-Blue] [Kia-Black] [Empty] [Empty] [Empty] [Tesla-Black] 
+[Tesla-White] [Empty] [Kia-Red] [Empty] [BMW-Red] [Empty] [Tata-Black] [Tata-Silver] [Empty] [Empty] [Kia-Black] [Empty] [BMW-Silver] [BMW-Blue] [Tesla-Blue] [BMW-White] 
+[BMW-Silver] [BMW-Silver] [Tata-Red] [Tesla-White] [Empty] [Empty] [BMW-Black] [Kia-Black] [Toyota-Black] [BMW-White] [BMW-Black] [Toyota-Black] [Empty] [Tata-White] [Toyota-White] [Empty] 
+[Tata-Blue] [Kia-Black] [Empty] [BMW-Silver] [Empty] [Empty] [BMW-Silver] [Empty] [Tata-Blue] [Empty] [Empty] [Empty] [Empty] [BMW-Blue] [Tesla-White] [Tata-White] 
+[Toyota-Red] [Toyota-White] [Empty] [Empty] [Tesla-White] [Kia-Black] [Tesla-Black] [Toyota-Silver] [BMW-Black] [Empty] [Tata-White] [Toyota-Red] [Tesla-Red] [Empty] [Empty] [Tesla-Red] 
+[Empty] [Empty] [Tata-Silver] [BMW-White] [Tesla-Silver] [Empty] [Empty] [BMW-White] [BMW-Red] [Empty] [Empty] [Toyota-Black] [Kia-Black] [Empty] [BMW-Black] [Empty] 
+[Empty] [Empty] [Empty] [Toyota-Red] [Kia-Blue] [BMW-Blue] [Empty] [Kia-Black] [BMW-Silver] [BMW-Blue] [Empty] [Tesla-Silver] [BMW-White] [Empty] [Tesla-Silver] [Empty] 
+[Empty] [Tesla-Silver] [Toyota-Silver] [Empty] [Empty] [Empty] [Empty] [Toyota-Silver] [Toyota-Red] [Empty] [Empty] [BMW-White] [Empty] [Empty] [Tata-Red] [Empty] 
+
+Floor 15:
+[Tata-White] [Toyota-Black] [Kia-Black] [Tesla-Black] [Toyota-Red] [Empty] [Toyota-Red] [BMW-Red] [Empty] [Empty] [Empty] [Empty] [Toyota-Black] [Tata-Red] [Empty] [Empty] 
+[Toyota-Blue] [Empty] [Empty] [Empty] [BMW-Blue] [Toyota-Silver] [Toyota-Black] [Tesla-Blue] [Tata-White] [BMW-Black] [Empty] [Empty] [Toyota-Red] [Tesla-Blue] [Empty] [Toyota-Red] 
+[Empty] [Empty] [Tata-Blue] [Empty] [Toyota-Silver] [Kia-Blue] [Kia-Black] [BMW-Red] [Toyota-Red] [Empty] [Tata-White] [Empty] [BMW-Silver] [Tesla-Red] [Tesla-Black] [Empty] 
+[Toyota-Red] [Empty] [Empty] [Empty] [BMW-White] [Empty] [BMW-Red] [Empty] [Empty] [Tesla-Red] [Tata-Red] [Empty] [Empty] [BMW-Black] [Empty] [BMW-Black] 
+[Empty] [Kia-Blue] [BMW-White] [Tata-Black] [Empty] [Empty] [Empty] [Empty] [Tesla-Black] [Empty] [Empty] [Empty] [Tata-White] [Empty] [Empty] [Tesla-White] 
+[BMW-White] [Empty] [BMW-White] [Kia-Red] [Empty] [Toyota-Silver] [Empty] [Empty] [Tesla-White] [Toyota-Red] [BMW-Red] [Empty] [Empty] [BMW-Silver] [Empty] [Empty] 
+[Tata-Blue] [Toyota-Silver] [Empty] [Kia-Silver] [Empty] [Toyota-Black] [Empty] [Empty] [Empty] [BMW-Blue] [Empty] [Kia-Blue] [Empty] [BMW-Black] [Tata-Blue] [Kia-Silver] 
+[Empty] [Empty] [Toyota-Blue] [Kia-Red] [Tata-Black] [Kia-Blue] [Kia-Black] [Empty] [Tesla-Blue] [Empty] [Tesla-Black] [Empty] [Kia-Blue] [Empty] [Empty] [Empty] 
+
